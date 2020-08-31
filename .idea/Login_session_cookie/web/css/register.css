@@ -1,0 +1,106 @@
+
+h3{
+    display: flex;
+    font-size: 55px;
+    justify-content: center;
+    flex-wrap: nowrap;
+    word-spacing: 2vw;
+}
+.username{
+    display: flex;
+    font-size: 5vw;
+    color: grey;
+    justify-content: space-between;
+    margin-top: 2vw;
+    width: 97vw;
+}
+.username span{
+    margin-left: 3vw;
+    display: flex;
+    width: 23vw;
+    height: 6vw;
+}
+.username input{
+    font-size: 5vw;
+    border: white;
+    color: grey;
+    list-style: none;
+    display: flex;
+    width: 65vw;
+    height: 6vw;
+    margin-left: 9vw;
+}
+.password{
+    display: flex;
+    font-size: 5vw;
+    color: grey;
+    justify-content: space-between;
+    margin-top: 2vw;
+    width: 97vw;
+}
+.password span{
+    margin-left: 3vw;
+    display: flex;
+    width: 23vw;
+    height: 6vw;
+}
+.password input{
+    font-size: 5vw;
+    border: white;
+    color: grey;
+    list-style: none;
+    display: flex;
+    width: 65vw;
+    height: 6vw;
+    margin-left: 9vw;
+}
+
+.login{
+    margin-top: 4vw;
+    width: 90vw;
+    display: flex;
+    margin-left: 5vw;
+    justify-content: center;
+    height: 10vw;
+    font-size: 5vw;
+    line-height: 10vw;
+    background-color: #f07c2e;
+    border: none;
+    color: white;
+}
+
+.reg{
+    margin-top: 7vw;
+    width: 90vw;
+    display: flex;
+    margin-left: 5vw;
+    justify-content: center;
+    height: 10vw;
+    font-size: 5vw;
+    line-height: 10vw;
+    background-color: white;
+    border: 2px solid #f07c2e;;
+    color: #f07c2e;
+}
+.other{
+    margin-top: 10vw;
+    display: flex;
+    width: 100vw;
+    flex-wrap: nowrap;
+    justify-content: center;
+    font-size: 4vw;
+}
+.other p{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 60px;
+    justify-content: center;
+}
+
+
+#other{
+    display: flex;
+    justify-content: center;
+    width: 60vw;
+    flex-wrap: nowrap;
+}
